@@ -13,3 +13,5 @@ La web y el archivo local usan el servicio de sincronización de [MarketIntel](h
 El HTML publicado se genera desde `source/` con `python scripts/build.py`. Para verificarlo ejecuta `python scripts/build.py --check` y `node --test tests/sync-core.test.cjs`.
 
 El repositorio también está listo para GitHub Pages: en **Settings → Pages** elige **Deploy from a branch**, rama `main`, carpeta `/ (root)`. La página `descargar.html` y el calendario funcionarán desde ese dominio gracias al puente de sincronización ya publicado en Vercel.
+
+FR1-bPBRvY6cvdEKJ2pgZQaCxRJ4SiFP-GkLEkS5kmOuji0
