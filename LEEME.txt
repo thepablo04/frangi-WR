@@ -1,0 +1,16 @@
+Frangi: calendario de trades TP / SL
+
+1. Extrae frangi.html en tu computadora. Si ya lo usabas, reemplaza el archivo
+   anterior en la misma carpeta y ábrelo en el mismo navegador. Así podrá
+   leer los registros que ese navegador guardó antes.
+2. En Sincronizar puedes crear una clave FR1 nueva o introducir una clave MI1
+   de MarketIntel en "Iniciar calendario con esta clave". El calendario usa
+   un espacio cifrado distinto al portafolio, aunque uses la misma clave.
+3. En otra computadora abre frangi.html y pulsa "Vincular este dispositivo"
+   con la misma clave. También puedes vincular la versión web:
+   https://thepablo04.github.io/frangi/
+
+Los trades siguen disponibles sin conexión y se sincronizan al volver internet.
+La sincronización utiliza el servicio de MarketIntel alojado en Vercel. El ZIP
+no contiene tus trades ni tu clave. Guarda la clave en privado. Puedes usar
+"Descargar copia JSON" para tener otra copia de tus registros.
