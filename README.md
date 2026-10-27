@@ -2,7 +2,7 @@
 
 Registra varios trades por día, calcula el win rate por **trade** y sincroniza los registros entre el archivo local y la [página web actual](https://marketintel-nu.vercel.app/frangi/index.html) con una clave privada.
 
-[Descargar el ZIP](https://github.com/thepablo04/frangi-WR/releases/download/v1.0.0/Frangi-sincronizado.zip) · [Código del calendario](https://github.com/thepablo04/frangi-WR/blob/main/frangi.html)
+[Descargar el ZIP](https://raw.githubusercontent.com/thepablo04/frangi-WR/main/downloads/Frangi-sincronizado.zip) · [Código del calendario](https://github.com/thepablo04/frangi-WR/blob/main/frangi.html)
 
 Para conservar marcas antiguas, extrae `frangi.html` y reemplaza tu archivo anterior **en la misma carpeta**; ábrelo con el mismo navegador. Pulsa **Sincronizar**. Puedes crear una clave `FR1-…` o introducir tu clave `MI1-…` de MarketIntel en **Iniciar calendario con esta clave**. En la otra PC o en la web, usa **Vincular este dispositivo** con la misma clave.
 
