@@ -1,8 +1,8 @@
 # Frangi · calendario TP/SL
 
-Registra varios trades por día, calcula el win rate por **trade** y sincroniza los registros entre el archivo local y la [página web](https://thepablo04.github.io/frangi/) con una clave privada.
+Registra varios trades por día, calcula el win rate por **trade** y sincroniza los registros entre el archivo local y la [página web](https://thepablo04.github.io/frangi-WR/) con una clave privada.
 
-[Descargar el ZIP](https://thepablo04.github.io/frangi/downloads/Frangi-sincronizado.zip) · [Página de descarga](https://thepablo04.github.io/frangi/descargar.html)
+[Descargar el ZIP](https://thepablo04.github.io/frangi-WR/downloads/Frangi-sincronizado.zip) · [Página de descarga](https://thepablo04.github.io/frangi-WR/descargar.html)
 
 Para conservar marcas antiguas, extrae `frangi.html` y reemplaza tu archivo anterior **en la misma carpeta**; ábrelo con el mismo navegador. Pulsa **Sincronizar**. Puedes crear una clave `FR1-…` o introducir tu clave `MI1-…` de MarketIntel en **Iniciar calendario con esta clave**. En la otra PC o en la web, usa **Vincular este dispositivo** con la misma clave.
 

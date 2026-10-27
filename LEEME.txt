@@ -8,7 +8,7 @@ Frangi: calendario de trades TP / SL
    un espacio cifrado distinto al portafolio, aunque uses la misma clave.
 3. En otra computadora abre frangi.html y pulsa "Vincular este dispositivo"
    con la misma clave. También puedes vincular la versión web:
-   https://thepablo04.github.io/frangi/
+   https://thepablo04.github.io/frangi-WR/
 
 Los trades siguen disponibles sin conexión y se sincronizan al volver internet.
 La sincronización utiliza el servicio de MarketIntel alojado en Vercel. El ZIP
